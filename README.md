@@ -23,14 +23,14 @@ No Notebook, você encontrará seções práticas que relacionam estes conceitos
 
 1. **Clonar ou baixar** este repositório.
 2. **Instalar as dependências** (principalmente `networkx`, `matplotlib` e `jupyter`).
-3. **Abrir o arquivo `tutorial_ED2.ipynb`** em seu Jupyter Notebook ou Google Colab.
+3. **Abrir o arquivo `tutorial_maria_eduarda_aed2.ipynb`** em seu Jupyter Notebook ou Google Colab.
 4. **Executar as células** em sequência, lendo as explicações e resolvendo os exercícios propostos.
 
 ---
 
 ## Autor
 
-- **Nome**: MARIA EDUARDA LIMA DA LUZ  
+- **Nome**: Maria Eduarda Lima da Luz
 - **Matrícula**: 20250051776  
 
 Este material foi desenvolvido para a disciplina de **Estrutura de Dados 2**.
